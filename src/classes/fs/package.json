@@ -1,0 +1,13 @@
+{
+    "name": "file-system",
+    "version": "1.0.0",
+    "main": "fs.js",
+    "contributors": [
+        {
+            "name": "Aldair Beltran (Bema)",
+            "email": "aldairbeltran3@hotmail.com",
+            "url": "https://github.com/villager"
+        }
+    ],
+    "private": false
+}

@@ -1,0 +1,24 @@
+{
+    "name": "bema.js",
+    "version": "1.0.0",
+    "description": "Utils to simplify my work",
+    "main": "src",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/villager/bema.js.git"
+    },
+    "keywords": [
+        "bema",
+        "utils"
+    ],
+    "author": {
+        "name": "Aldair Beltran (Bema)",
+        "email": "aldairbeltran3@hotmail.com",
+        "url": "https://github.com/villager"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/villager/bema.js/issues"
+    },
+    "homepage": "https://github.com/villager/bema.js#readme"
+}

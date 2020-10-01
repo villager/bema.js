@@ -1,0 +1,11 @@
+{
+    "name": "map-extension",
+    "version": "1.0.0",
+    "main": "map.js",
+    "author": {
+        "name": "Aldair Beltran (Bema)",
+        "email": "aldairbeltran3@hotmail.com",
+        "url": "https://github.com/villager"
+    },
+    "private": false
+}
