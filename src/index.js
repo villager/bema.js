@@ -4,16 +4,21 @@ module.exports = {
      * Classes
      */
 
-    Bins: require('./classes/bins'),
-    Elo: require('./classes/elo'),
-    EventEmitter: require('./classes/events'),
-    FS: require('./classes/fs'),
-    Net: require('./classes/net'),
+    Bins: require('./bins'),
+    Elo: require('./elo'),
+    EventEmitter: require('./events'),
+    FS: require('./fs'),
+    Net: require('./net'),
+    Lang: require('./translation'),
 
     /**
      * Extensions
      */
 
-    Map: require('./extensions/map'),
-    Set: require('./extensions/set'),
+    Map: require('./map'),
+    Set: require('./set'),
+    /**
+     * Functions
+     */
+    Utils: require('./utils'),
 }
